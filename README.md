@@ -18,12 +18,11 @@ Here are some ideas to get you started:
  </p>
  
  <h1 align="center">Hi 👋, I'm Amaury</h1
-<p align="center"> I am passionate about Data Science and Analytics and I like to explore new trends and learn new technologies. 
+<p> I am passionate about Data Science and Analytics and I like to explore new trends and learn new technologies. 
 
 I have recently concluded both University of Michigan Python Course and Google Data Analytics Course - a hands-on program that covers the entire scope of Data Analysis.
 One of goal is to be more involved in the Data Science Community.
 <br>I'm also open to having a chat about **Anything Data Science or Analytic Related**.
-</br>
 
 In my free time, I like to workout, read, listen to podcasts, cook, and learn new things everyday.
 
