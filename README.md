@@ -18,7 +18,16 @@ Here are some ideas to get you started:
  </p>
  
  <h1 align="center">Hi 👋, I'm Amaury</h1
- <p> I assess large amounts of data and find patterns and insights through descriptive, diagnostic, and predictive analytics for the company to give them useful insights that are needed for them to make key business decisions.
+ <p align="center"> I am passionate about Data Science and Analytics and I like to explore new trends and learn new technologies. 
+
+I have recently concluded both University of Michigan Python Course and Google Data Analytics Course - a hands-on program that covers the entire scope of Data Analysis.
+One of goal is to be more involved in the Data Science Community.
+<br>I'm also open to having a chat about **Anything Data Science or Analytic Related**.
+</br>
+
+In my free time, I like to workout, read, listen to podcasts, cook, and learn new things everyday.
+
+Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com/) for all of my projects, skills and certificates.
  </p>
  
  <h2 align="center">Contact Me !! 🤝</h2> 
@@ -34,7 +43,7 @@ Here are some ideas to get you started:
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p> 
      
-## My Stats
+<h2 align="center">My Stats</h2>
 <p align="center">
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MSThedox&count_private=true&show_icons=true&theme=radical">
       <img  width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MSThedox&theme=radical" />
