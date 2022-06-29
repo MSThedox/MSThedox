@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  </p>
  
  <h1 align="center">Hi 👋, I'm Amaury</h1
- <p align="center"> I am passionate about Data Science and Analytics and I like to explore new trends and learn new technologies. 
+<p align="center"> I am passionate about Data Science and Analytics and I like to explore new trends and learn new technologies. 
 
 I have recently concluded both University of Michigan Python Course and Google Data Analytics Course - a hands-on program that covers the entire scope of Data Analysis.
 One of goal is to be more involved in the Data Science Community.
@@ -27,8 +27,8 @@ One of goal is to be more involved in the Data Science Community.
 
 In my free time, I like to workout, read, listen to podcasts, cook, and learn new things everyday.
 
-Want to know more about me? [Check out my portfolio](https://www.abdulfarhan.com/) for all of my projects, skills and certificates.
- </p>
+Want to know more about me? [Check out my portfolio](https://github.com/MSThedox/Data-Analysis-Portfolio) for all of my projects, skills and certificates.
+</p>
  
  <h2 align="center">Contact Me !! 🤝</h2> 
 
